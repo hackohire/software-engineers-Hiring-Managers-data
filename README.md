@@ -9,3 +9,4 @@ Linkedin account we can do 2000 searches. so if we have 100 linkedin accounts we
 3) need to add linkedin cookie at headers variable in the code.
 4) after we get the data of software engineers/hiring managers, we can invite them in linkedin itself by using lid or by using
 their email addresses.
+5) Here, i have taken linkedin exists status based on location. Due to we need location for the people as mentioned in the problem statement.
